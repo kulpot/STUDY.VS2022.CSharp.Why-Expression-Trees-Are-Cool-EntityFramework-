@@ -3,7 +3,7 @@ using System.Linq;
 using System.Data.Entity;
 
 //ref link:https://www.youtube.com/watch?v=RYvuaU47h2w&list=PLRwVmtr-pp06SlwcsqhreZ2byuozdnPlg&index=9&t=10s
-//
+// ..
 
 class MeContext : DbContext
 {
